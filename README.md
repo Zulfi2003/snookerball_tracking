@@ -44,7 +44,7 @@ Prepare a train.py script and run it.
 
 This will train the model and save the weights in the runs/train/exp/weights/ directory.
 
-Running the Detection Script
+### Running the Detection Script
 
 1. Modify the Script
 
