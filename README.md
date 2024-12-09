@@ -63,7 +63,3 @@ To detect snooker balls in a video, run the following command:
 3. Output
 
 The processed video with detected balls will be saved to the location specified in OUTPUT_PATH.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
